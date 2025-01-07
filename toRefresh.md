@@ -7,3 +7,4 @@ As you work through this exercise, write down anything that you needed to look u
 - Using Collections Library
 - Printing content in array (toString)
 - String methods
+- overriding toString

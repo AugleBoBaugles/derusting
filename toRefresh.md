@@ -6,3 +6,4 @@ As you work through this exercise, write down anything that you needed to look u
 - ArrayList methods in general
 - Using Collections Library
 - Printing content in array (toString)
+- String methods
